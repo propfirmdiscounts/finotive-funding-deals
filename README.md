@@ -108,4 +108,4 @@ This repository tracks all historical deals for **Finotive Funding** published o
 
 ---
 
-Last synced: 2026-10-29T01:50:34Z (auto, hourly)
+Last synced: 2026-10-29T02:05:28Z (auto, hourly)
