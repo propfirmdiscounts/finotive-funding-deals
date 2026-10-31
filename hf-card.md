@@ -1,45 +1,72 @@
 ---
 license: other
+pretty_name: Finotive Funding Discount Code
 configs:
 - config_name: finotive-funding-deals
   data_files:
   - split: data
     path: datasets/finotive-funding-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - finotive-funding
 ---
 
-# Finotive Funding - Discount Codes & Deal History
+# Finotive Funding Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-28, the verified Finotive Funding discount code is **JACKICHUN** — up to 25% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/finotive-funding/
+> Finotive Funding is a next-generation proprietary trading firm built for serious traders who want real opportunity.
+> We provide funded trading accounts where traders can prove their skills, access real capital, and keep up to 100% of their profits.
+> Our mission is simple — to build the fairest, most transparent, and most flexible funding model in the industry.
+> With static drawdown, on-demand payouts, no hidden rules, and weekly withdrawals, we’ve redefined what traders can expect from a prop firm.
+> Since 2021, Finotive Funding has paid out millions of dollars to traders worldwide and continues to lead the way in technology, transparency, and trader support.
+> Every account is supported by our in-house dashboard, advanced risk tools, and a dedicated global team that genuinely cares about trader success.
+> Trade fairly. Trade freely. Trade Finotive.
+>
+> — Finotive Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/finotivefunding.com)
 
-**Verified exclusive discount code:** JACKICHUN (works any time; live rate always on prop firm page)
+- Code: JACKICHUN
+- Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-28
+- Trustpilot: 3.2/5 (1074 reviews)
+- Activate: https://propfirmdiscount.com/go/finotivefunding
+- Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **JACKICHUN** to get **25% off** on Finotive Funding challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Finotive Funding evaluation accounts.
+## Current Finotive Funding deal: Halloween 50% Off Every Challenge Up To $200K
+
+- Published: 2026-10-28
+- Offer ends: 2026-11-01 00:00
+- Offer: 50% off
+- Scope: Challenge Evaluation, Instant Funding, Pro, Up To $200K
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/
+
+## Finotive Funding discount code FAQ
+
+**What is the Finotive Funding discount code?**
+
+JACKICHUN. It is verified by PropFirmDiscount.com and takes up to 25% off Finotive Funding challenges and accounts.
+
+**Does the Finotive Funding discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Finotive Funding deal?**
+
+**Halloween 50% Off Every Challenge Up To $200K** — published 2026-10-28. Offer ends: 2026-11-01 00:00. The offer is 50% off.
 
 ---
 
-## Latest Deal
-
-### Finotive Funding - Halloween 50% Off Every Challenge Up To $200K
-
-**Published:** 2026-10-28  
-**Offer ends:** 2026-11-01 00:00  
-**Discount:** 50% off  
-**Scope:** Challenge Evaluation, Instant Funding, Pro, Up To $200K  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **58**
 
@@ -113,19 +140,20 @@ Total deals tracked: **58**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Finotive Funding** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Finotive Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/finotive-funding/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/finotive-funding/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
