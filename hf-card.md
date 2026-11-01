@@ -76,7 +76,7 @@ Total deals tracked: **59**
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
 | 2026-10-31 | 65% off every account, every type and size | 65% off | 2026-11-02 17:59 | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/) |
-| 2026-10-28 | Halloween 50% Off Every Challenge Up To $200K | 50% off | 2026-11-01 00:00 | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) |
+| 2026-10-28 | Halloween 50% Off Every Challenge Up To $200K | 50% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) |
 | 2026-10-01 | 50% Off Challenge and Pro Accounts | 50% off | 2026-10-19 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/) |
 | 2026-09-21 | 50% Discount on All Evaluation and Instant Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-off-all-accounts-2/) |
 | 2026-09-07 | Labor Day: 40% Off All Evaluation Accounts | 40% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-labor-day-40-off/) |
