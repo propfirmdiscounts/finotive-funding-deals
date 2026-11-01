@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13077,
+    "title": "65% off every account, every type and size",
+    "offer_type": "coupon",
+    "discount_value": "65%",
+    "scope": [
+      "Every Account, Every Account Type, Every Account Size"
+    ],
+    "date_published": "2026-10-31",
+    "date_exp": "2026-11-02 17:59",
+    "event": "Halloween",
+    "last_verified": "2026-10-31",
+    "post_url": "https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/",
+    "prop_firm": "Finotive Funding",
+    "prop_firm_slug": "finotive-funding",
+    "standing_code": "JACKICHUN",
+    "standing_discount": "25%",
+    "activation_link": "https://propfirmdiscount.com/go/finotivefunding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/finotive-funding/"
+  },
+  {
     "deal_id": 13054,
     "title": "Halloween 50% Off Every Challenge Up To $200K",
     "offer_type": "coupon",
