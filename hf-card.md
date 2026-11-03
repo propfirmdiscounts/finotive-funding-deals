@@ -34,7 +34,7 @@ As of 2026-10-31, the verified Finotive Funding discount code is JACKICHUN — u
 ## Current Finotive Funding deal: 65% off every account, every type and size
 
 - Published: 2026-10-31
-- Offer ends: 2026-11-02 17:59
+- Offer ends: 2026-11-02 17:59 (ended)
 - Offer: 65% off
 - Event: Halloween
 - Scope: Every Account, Every Account Type, Every Account Size
@@ -53,7 +53,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Finotive Funding deal?**
 
-**65% off every account, every type and size** — published 2026-10-31. Offer ends: 2026-11-02 17:59. The offer is 65% off.
+**65% off every account, every type and size** — published 2026-10-31. Offer ends: 2026-11-02 17:59 (ended). The offer is 65% off.
 
 ---
 
@@ -65,7 +65,7 @@ Total deals tracked: **59**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-31 | 65% off every account, every type and size | 65% off | 2026-11-02 17:59 | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/) |
+| 2026-10-31 | 65% off every account, every type and size | 65% off | 2026-11-02 17:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/) |
 | 2026-10-28 | Halloween 50% Off Every Challenge Up To $200K | 50% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) |
 | 2026-10-01 | 50% Off Challenge and Pro Accounts | 50% off | 2026-10-19 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/) |
 | 2026-09-21 | 50% Discount on All Evaluation and Instant Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-off-all-accounts-2/) |
