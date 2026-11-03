@@ -1,6 +1,16 @@
-# Finotive Funding Discount Code
+# Finotive Funding - Discount Codes & Deal History
 
 As of 2026-10-31, the verified Finotive Funding discount code is JACKICHUN — up to 25% OFF, works any time. Its current deals run their own limited-time campaign codes.
+
+> Finotive Funding is a next-generation proprietary trading firm built for serious traders who want real opportunity.
+> We provide funded trading accounts where traders can prove their skills, access real capital, and keep up to 100% of their profits.
+> Our mission is simple — to build the fairest, most transparent, and most flexible funding model in the industry.
+> With static drawdown, on-demand payouts, no hidden rules, and weekly withdrawals, we’ve redefined what traders can expect from a prop firm.
+> Since 2021, Finotive Funding has paid out millions of dollars to traders worldwide and continues to lead the way in technology, transparency, and trader support.
+> Every account is supported by our in-house dashboard, advanced risk tools, and a dedicated global team that genuinely cares about trader success.
+> Trade fairly. Trade freely. Trade Finotive.
+>
+> — Finotive Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/finotivefunding.com)
 
 - Code: JACKICHUN
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
