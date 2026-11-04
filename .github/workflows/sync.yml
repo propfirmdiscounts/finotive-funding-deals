@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: propfirmdiscount
+  HF_NAMESPACE: finotivefunding
   FIRM_SLUG: finotive-funding
   DEALSTORE_ID: 30
   FIRM_NAME: Finotive Funding
