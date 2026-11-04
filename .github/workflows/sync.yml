@@ -316,6 +316,22 @@ jobs:
               facts.append(f"- Activate: {activation}")
           facts.append(f"- Firm page: {firm['url']}")
 
+          # Current deal block for the card — gives it substance.
+          current_deal = f"## Current {firm['name']} deal: {latest['title']}\n\n"
+          current_deal += f"- Published: {latest['date_published']}\n"
+          current_deal += f"- Offer ends: {latest.get('date_exp') or 'N/A'}\n"
+          current_deal += f"- Offer: {add_off(latest['discount_value'])}\n"
+          if latest.get('event'):
+              current_deal += f"- Event: {latest['event']}\n"
+          if latest.get('scope'):
+              current_deal += f"- Scope: {', '.join(latest['scope'])}\n"
+          if is_global:
+              current_deal += f"- Code: {code}\n"
+          else:
+              current_deal += ("- Code: this deal carries its own limited-time campaign code, "
+                               "shown on the deal page below\n")
+          current_deal += f"- Deal page: {latest['post_url']}\n\n"
+
           front = ('---\n'
                    'license: other\n'
                    'pretty_name: ' + name + ' Discount Code\n'
@@ -337,7 +353,8 @@ jobs:
           body = (f"# {name} - Discount Codes\n\n"
                   f"{answer}\n\n"
                   + '\n'.join(facts) + "\n\n"
-                  f"Deal history: https://github.com/propfirmdiscounts/{slug}-deals\n\n"
+                  + current_deal
+                  + f"Deal history: https://github.com/propfirmdiscounts/{slug}-deals\n\n"
                   f"Data: `datasets/{slug}-deals.json` — one row per deal, newest first.\n\n"
                   "Data © PropFirmDiscount. Codes may be referenced with attribution "
                   "and a link to https://propfirmdiscount.com.\n")
