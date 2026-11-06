@@ -1,6 +1,6 @@
 # Finotive Funding - Discount Codes & Deal History
 
-As of 2026-10-31, the verified Finotive Funding discount code is JACKICHUN — up to 25% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-06, the verified Finotive Funding discount code is JACKICHUN — up to 25% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > Finotive Funding is a next-generation proprietary trading firm built for serious traders who want real opportunity.
 > We provide funded trading accounts where traders can prove their skills, access real capital, and keep up to 100% of their profits.
@@ -15,22 +15,21 @@ As of 2026-10-31, the verified Finotive Funding discount code is JACKICHUN — u
 - Code: JACKICHUN
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-31
+- Last deal published: 2026-11-06
 - Trustpilot: 3.5/5 (1059 reviews)
 - Activate: https://propfirmdiscount.com/go/finotivefunding
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Finotive Funding deal: 65% off every account, every type and size
+## Current Finotive Funding deal: Back to Roots Sale 50% Off Everything
 
-- Published: 2026-10-31
-- Offer ends: 2026-11-02 17:59 (ended)
-- Offer: 65% off
-- Event: Halloween
-- Scope: Every Account, Every Account Type, Every Account Size
+- Published: 2026-11-06
+- Offer ends: 2026-11-10 17:59
+- Offer: 50% off
+- Scope: All Accounts - Instant, Pro, Challenge; Every Account Size
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/
+- Deal page: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/
 
 ## Finotive Funding discount code FAQ
 
@@ -44,18 +43,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Finotive Funding deal?**
 
-**65% off every account, every type and size** — published 2026-10-31. Offer ends: 2026-11-02 17:59 (ended). The offer is 65% off.
+**Back to Roots Sale 50% Off Everything** — published 2026-11-06. Offer ends: 2026-11-10 17:59. The offer is 50% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **59**
+Total deals tracked: **60**
 
-### 2026 (33 deals)
+### 2026 (34 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-06 | Back to Roots Sale 50% Off Everything | 50% off | 2026-11-10 17:59 | — | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/) |
 | 2026-10-31 | 65% off every account, every type and size | 65% off | 2026-11-02 17:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/) |
 | 2026-10-28 | Halloween 50% Off Every Challenge Up To $200K | 50% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) |
 | 2026-10-01 | 50% Off Challenge and Pro Accounts | 50% off | 2026-10-19 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/) |

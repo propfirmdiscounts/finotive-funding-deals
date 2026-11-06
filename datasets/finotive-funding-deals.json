@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13174,
+    "title": "Back to Roots Sale 50% Off Everything",
+    "offer_type": "coupon",
+    "discount_value": "50%",
+    "scope": [
+      "All Accounts - Instant, Pro, Challenge; Every Account Size"
+    ],
+    "date_published": "2026-11-06",
+    "date_exp": "2026-11-10 17:59",
+    "event": null,
+    "last_verified": "2026-11-06",
+    "post_url": "https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/",
+    "prop_firm": "Finotive Funding",
+    "prop_firm_slug": "finotive-funding",
+    "standing_code": "JACKICHUN",
+    "standing_discount": "25%",
+    "activation_link": "https://propfirmdiscount.com/go/finotivefunding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/finotive-funding/"
+  },
+  {
     "deal_id": 13077,
     "title": "65% off every account, every type and size",
     "offer_type": "coupon",
