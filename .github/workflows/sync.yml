@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: finotive-funding-discount-codes
+  HF_NAMESPACE: finotivefunding
+  HF_REPO_NAME: finotive-funding-deals
   FIRM_SLUG: finotive-funding
   DEALSTORE_ID: 30
   FIRM_NAME: Finotive Funding
