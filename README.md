@@ -25,7 +25,7 @@ As of 2026-11-06, the verified Finotive Funding discount code is JACKICHUN — u
 ## Current Finotive Funding deal: Back to Roots Sale 50% Off Everything
 
 - Published: 2026-11-06
-- Offer ends: 2026-11-10 17:59
+- Offer ends: 2026-11-10 17:59 (ended)
 - Offer: 50% off
 - Scope: All Accounts - Instant, Pro, Challenge; Every Account Size
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
@@ -43,7 +43,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Finotive Funding deal?**
 
-**Back to Roots Sale 50% Off Everything** — published 2026-11-06. Offer ends: 2026-11-10 17:59. The offer is 50% off.
+**Back to Roots Sale 50% Off Everything** — published 2026-11-06. Offer ends: 2026-11-10 17:59 (ended). The offer is 50% off.
 
 ---
 
@@ -55,7 +55,7 @@ Total deals tracked: **60**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-06 | Back to Roots Sale 50% Off Everything | 50% off | 2026-11-10 17:59 | — | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/) |
+| 2026-11-06 | Back to Roots Sale 50% Off Everything | 50% off | 2026-11-10 17:59 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/) |
 | 2026-10-31 | 65% off every account, every type and size | 65% off | 2026-11-02 17:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/) |
 | 2026-10-28 | Halloween 50% Off Every Challenge Up To $200K | 50% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) |
 | 2026-10-01 | 50% Off Challenge and Pro Accounts | 50% off | 2026-10-19 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-50-percent-off-all-accounts/) |
