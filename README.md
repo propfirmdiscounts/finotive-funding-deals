@@ -16,7 +16,7 @@ As of 2026-11-06, the verified Finotive Funding discount code is JACKICHUN — u
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-06
-- Trustpilot: 3.5/5 (1060 reviews)
+- Trustpilot: 3.6/5 (1063 reviews)
 - Activate: https://propfirmdiscount.com/go/finotivefunding
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
