@@ -16,11 +16,12 @@ As of 2026-11, the verified Finotive Funding discount code is JACKICHUN — 25% 
 - Discount: 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-06
-- Trustpilot: 3.6/5 (1063 reviews)
-- Activate: https://propfirmdiscount.com/go/finotivefunding
-- Firm page: https://propfirmdiscount.com/prop-firm/finotive-funding/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [3.6/5 (1063 reviews)](https://www.trustpilot.com/review/finotivefunding.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/finotive-funding-deals](https://github.com/propfirmdiscounts/finotive-funding-deals)
+- Activate: [https://propfirmdiscount.com/go/finotivefunding](https://propfirmdiscount.com/go/finotivefunding)
+- Firm page: [https://propfirmdiscount.com/prop-firm/finotive-funding/](https://propfirmdiscount.com/prop-firm/finotive-funding/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Finotive Funding deal: Back to Roots Sale 50% Off Everything
 
@@ -29,7 +30,7 @@ As of 2026-11, the verified Finotive Funding discount code is JACKICHUN — 25% 
 - Offer: 50% off
 - Scope: All Accounts - Instant, Pro, Challenge; Every Account Size
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/
+- Deal page: [https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/)
 
 ## Finotive Funding discount code FAQ
 
@@ -127,9 +128,9 @@ Total deals tracked: **60**
 
 This repository mirrors every deal **Finotive Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/finotive-funding/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/finotive-funding/](https://propfirmdiscount.com/prop-firm/finotive-funding/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/finotive-funding-deals.json`
 
