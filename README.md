@@ -1,6 +1,6 @@
 # Finotive Funding - Discount Codes & Deal History
 
-As of November 2026, the verified Finotive Funding discount code is JACKICHUN — 25% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Finotive Funding discount code is JACKICHUN — 25% OFF, which can be applied on the checkout page anytime. The newest is "Back to Roots Sale 50% Off Everything".
 
 > Finotive Funding is a next-generation proprietary trading firm built for serious traders who want real opportunity.
 > We provide funded trading accounts where traders can prove their skills, access real capital, and keep up to 100% of their profits.
@@ -17,11 +17,11 @@ As of November 2026, the verified Finotive Funding discount code is JACKICHUN �
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-06
 - Trustpilot: [3.6/5 (1063 reviews)](https://www.trustpilot.com/review/finotivefunding.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/finotive-funding-deals](https://github.com/propfirmdiscounts/finotive-funding-deals)
-- Activate: [https://propfirmdiscount.com/go/finotivefunding](https://propfirmdiscount.com/go/finotivefunding)
-- Firm page: [https://propfirmdiscount.com/prop-firm/finotive-funding/](https://propfirmdiscount.com/prop-firm/finotive-funding/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Finotive Funding Deals Repository](https://github.com/propfirmdiscounts/finotive-funding-deals)
+- Activate: [Activate Finotive Funding Discount Code](https://propfirmdiscount.com/go/finotivefunding)
+- Firm page: [Finotive Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/finotive-funding/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Finotive Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Finotive Funding deal: Back to Roots Sale 50% Off Everything
 
@@ -30,7 +30,7 @@ As of November 2026, the verified Finotive Funding discount code is JACKICHUN �
 - Offer: 50% off
 - Scope: All Accounts - Instant, Pro, Challenge; Every Account Size
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/)
+- Deal page: [Finotive Funding Deal Page](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/)
 
 ## Finotive Funding discount code FAQ
 
@@ -128,9 +128,9 @@ Total deals tracked: **60**
 
 This repository mirrors every deal **Finotive Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/finotive-funding/](https://propfirmdiscount.com/prop-firm/finotive-funding/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Finotive Funding Profile](https://propfirmdiscount.com/prop-firm/finotive-funding/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/finotive-funding-deals.json`
 
@@ -173,4 +173,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
