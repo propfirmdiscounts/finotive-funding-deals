@@ -1,4 +1,4 @@
-# Finotive Funding - Discount Codes & Deal History
+# Finotive Funding Discount Code & Deal History
 
 As of November 2026, the verified Finotive Funding discount code is JACKICHUN â€” 25% OFF, which can be applied on the checkout page anytime. The newest is "Back to Roots Sale 50% Off Everything".
 
@@ -14,7 +14,7 @@ As of November 2026, the verified Finotive Funding discount code is JACKICHUN â€
 
 - Code: JACKICHUN
 - Discount: 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code â€” no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code â€” no published expiry date
 - Last deal published: 2026-11-06
 - Trustpilot: [3.6/5 (1063 reviews)](https://www.trustpilot.com/review/finotivefunding.com)
 - GitHub repository: [Finotive Funding Deals Repository](https://github.com/propfirmdiscounts/finotive-funding-deals)
@@ -23,7 +23,7 @@ As of November 2026, the verified Finotive Funding discount code is JACKICHUN â€
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Finotive Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current Finotive Funding deal: Back to Roots Sale 50% Off Everything
+## Latest Finotive Funding deal: Back to Roots Sale 50% Off Everything
 
 - Published: 2026-11-06
 - Offer ends: 2026-11-10 17:59 (ended)
@@ -32,7 +32,7 @@ As of November 2026, the verified Finotive Funding discount code is JACKICHUN â€
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Finotive Funding Deal Page](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/)
 
-## Finotive Funding discount code FAQ
+## Finotive Funding Discount Code & Deals FAQ
 
 **What is the Finotive Funding discount code?**
 
@@ -48,7 +48,7 @@ No. It is a standing code â€” there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## Finotive Funding Deal History
 
 Total deals tracked: **60**
 
@@ -124,7 +124,7 @@ Total deals tracked: **60**
 
 ---
 
-## About this repository
+## About the Finotive Funding Deals Dataset
 
 This repository mirrors every deal **Finotive Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -132,7 +132,7 @@ This repository mirrors every deal **Finotive Funding** has published on PropFir
 - Prop firm profile: [Finotive Funding Profile](https://propfirmdiscount.com/prop-firm/finotive-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/finotive-funding-deals.json`
+## Finotive Funding Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -164,13 +164,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data Â© PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
