@@ -1,6 +1,6 @@
 # Finotive Funding Discount Code & Deal History
 
-As of November 2026, the verified Finotive Funding discount code is JACKICHUN — 25% OFF, which can be applied on the checkout page anytime. The newest is "Back to Roots Sale 50% Off Everything".
+As of November 2026, the verified Finotive Funding discount code is PFDC — 25% OFF, which can be applied on the checkout page anytime. The newest is "Back to Roots Sale 50% Off Everything".
 
 > Finotive Funding is a next-generation proprietary trading firm built for serious traders who want real opportunity.
 > We provide funded trading accounts where traders can prove their skills, access real capital, and keep up to 100% of their profits.
@@ -12,11 +12,11 @@ As of November 2026, the verified Finotive Funding discount code is JACKICHUN �
 >
 > — Finotive Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/finotivefunding.com)
 
-- Code: JACKICHUN
+- Code: PFDC
 - Discount: 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-06
-- Trustpilot: [3.6/5 (1063 reviews)](https://www.trustpilot.com/review/finotivefunding.com)
+- Trustpilot: [3.6/5 (1071 reviews)](https://www.trustpilot.com/review/finotivefunding.com)
 - GitHub repository: [Finotive Funding Deals Repository](https://github.com/propfirmdiscounts/finotive-funding-deals)
 - Activate: [Activate Finotive Funding Discount Code](https://propfirmdiscount.com/go/finotivefunding)
 - Firm page: [Finotive Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/finotive-funding/)
@@ -36,7 +36,7 @@ As of November 2026, the verified Finotive Funding discount code is JACKICHUN �
 
 **What is the Finotive Funding discount code?**
 
-JACKICHUN. It is verified by PropFirmDiscount.com and takes 25% off Finotive Funding challenges and accounts.
+PFDC. It is verified by PropFirmDiscount.com and takes 25% off Finotive Funding challenges and accounts.
 
 **Does the Finotive Funding discount code expire?**
 
