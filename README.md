@@ -1,4 +1,4 @@
-# Finotive Funding Discount Code & Deal History
+# Finotive Funding Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Finotive Funding discount code is PFDC — 25% OFF, which can be applied on the checkout page anytime. The newest is "Back to Roots Sale 50% Off Everything".
 
@@ -17,7 +17,7 @@ As of November 2026, the verified Finotive Funding discount code is PFDC — 25%
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-06
 - Trustpilot: [3.6/5 (1071 reviews)](https://www.trustpilot.com/review/finotivefunding.com)
-- GitHub repository: [Finotive Funding Deals Repository](https://github.com/propfirmdiscounts/finotive-funding-deals)
+- GitHub repository: [Finotive Funding Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/finotive-funding-deals)
 - Activate: [Activate Finotive Funding Discount Code](https://propfirmdiscount.com/go/finotivefunding)
 - Firm page: [Finotive Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/finotive-funding/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -32,7 +32,7 @@ As of November 2026, the verified Finotive Funding discount code is PFDC — 25%
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Finotive Funding Deal Page](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/)
 
-## Finotive Funding Discount Code & Deals FAQ
+## Finotive Funding Discount Code & Deals History FAQ
 
 **What is the Finotive Funding discount code?**
 
@@ -48,7 +48,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Finotive Funding Deal History
+## Finotive Funding Deals History
 
 Total deals tracked: **60**
 
@@ -124,7 +124,7 @@ Total deals tracked: **60**
 
 ---
 
-## About the Finotive Funding Deals Dataset
+## About the Finotive Funding Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Finotive Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -132,7 +132,7 @@ This repository mirrors every deal **Finotive Funding** has published on PropFir
 - Prop firm profile: [Finotive Funding Profile](https://propfirmdiscount.com/prop-firm/finotive-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Finotive Funding Deal Dataset: Field Definitions
+## Finotive Funding Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
