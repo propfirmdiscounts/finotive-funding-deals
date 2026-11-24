@@ -1,6 +1,6 @@
 # Finotive Funding Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Finotive Funding discount code is PFDC — 25% OFF, which can be applied on the checkout page anytime. The newest is "Launch Week PS5 Draw".
+As of November 2026, the verified Finotive Funding discount code is PFDC — 25% OFF, which can be applied on the checkout page anytime. The newest is "65% Off Every Account".
 
 > Finotive Funding is a next-generation proprietary trading firm built for serious traders who want real opportunity.
 > We provide funded trading accounts where traders can prove their skills, access real capital, and keep up to 100% of their profits.
@@ -15,22 +15,23 @@ As of November 2026, the verified Finotive Funding discount code is PFDC — 25%
 - Code: PFDC
 - Discount: 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-17
-- Trustpilot: [3.6/5 (1071 reviews)](https://www.trustpilot.com/review/finotivefunding.com)
+- Last deal published: 2026-11-23
+- Trustpilot: [3.5/5 (1079 reviews)](https://www.trustpilot.com/review/finotivefunding.com)
 - GitHub repository: [Finotive Funding Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/finotive-funding-deals)
 - Activate: [Activate Finotive Funding Discount Code](https://propfirmdiscount.com/go/finotivefunding)
 - Firm page: [Finotive Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/finotive-funding/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Finotive Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Finotive Funding deal: Launch Week PS5 Draw
+## Latest Finotive Funding deal: 65% Off Every Account
 
-- Published: 2026-11-17
-- Offer ends: 2026-11-23 13:00
-- Offer: Prize Draw
-- Scope: Finotive Funding Accounts (Challenge, Instant Or Pro)
+- Published: 2026-11-23
+- Offer ends: 2026-12-04 17:59
+- Offer: 65% off
+- Event: Black Friday
+- Scope: Challenge Accounts, Instant Funding Accounts, Pro Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [Finotive Funding Deal Page](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/)
+- Deal page: [Finotive Funding Deal Page](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account-black-friday/)
 
 ## Finotive Funding Discount Code & Deals History FAQ
 
@@ -44,19 +45,20 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Finotive Funding deal?**
 
-**Launch Week PS5 Draw** — published 2026-11-17. Offer ends: 2026-11-23 13:00. The offer is Prize Draw.
+**65% Off Every Account** — published 2026-11-23. Offer ends: 2026-12-04 17:59. The offer is 65% off.
 
 ---
 
 ## Finotive Funding Deals History
 
-Total deals tracked: **61**
+Total deals tracked: **62**
 
-### 2026 (35 deals)
+### 2026 (36 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-17 | Finotive Funding: Launch Week PS5 Draw | Prize Draw | 2026-11-23 13:00 | — | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/) |
+| 2026-11-23 | Finotive Funding: 65% Off Every Account | 65% off | 2026-12-04 17:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account-black-friday/) |
+| 2026-11-17 | Finotive Funding: Launch Week PS5 Draw | Prize Draw | 2026-11-23 13:00 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-launch-week-ps5-gta-vi-draw/) |
 | 2026-11-06 | Finotive Funding: Back to Roots Sale 50% Off Everything | 50% off | 2026-11-10 17:59 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-back-to-roots-sale-50-off/) |
 | 2026-10-31 | Finotive Funding: 65% off every account, every type and size | 65% off | 2026-11-02 17:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-65-off-every-account/) |
 | 2026-10-28 | Finotive Funding: Halloween 50% Off Every Challenge Up To $200K | 50% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-halloween-50-off-all-challenges/) |
