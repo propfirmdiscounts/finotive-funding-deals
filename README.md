@@ -16,7 +16,7 @@ As of November 2026, the verified Finotive Funding discount code is PFDC — 25%
 - Discount: 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-23
-- Trustpilot: [3.5/5 (1079 reviews)](https://www.trustpilot.com/review/finotivefunding.com)
+- Trustpilot: [3.5/5 (1083 reviews)](https://www.trustpilot.com/review/finotivefunding.com)
 - GitHub repository: [Finotive Funding Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/finotive-funding-deals)
 - Activate: [Activate Finotive Funding Discount Code](https://propfirmdiscount.com/go/finotivefunding)
 - Firm page: [Finotive Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/finotive-funding/)
